@@ -1,0 +1,28 @@
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\bin\Debug\TMSI Home Page.exe.config
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\bin\Debug\TMSI Home Page.exe
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\bin\Debug\TMSI Home Page.pdb
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\bin\Debug\TMSI Home Page.xml
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI_Home_Page.Form1.resources
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI_Home_Page.Resources.resources
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI Home Page.vbproj.GenerateResource.cache
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI Home Page.vbproj.CoreCompileInputs.cache
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI Home Page.exe
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI Home Page.xml
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI Home Page.pdb
+C:\Users\ramAd\source\repos\TMSI Home Page\TMSI Home Page\obj\Debug\TMSI Home Page.vbproj.AssemblyReference.cache
+D:\tmis\TMSI Home Page\bin\Debug\TMSI Home Page.exe.config
+D:\tmis\TMSI Home Page\bin\Debug\TMSI Home Page.exe
+D:\tmis\TMSI Home Page\bin\Debug\TMSI Home Page.pdb
+D:\tmis\TMSI Home Page\bin\Debug\TMSI Home Page.xml
+D:\tmis\TMSI Home Page\obj\Debug\TMSI Home Page.vbprojAssemblyReference.cache
+D:\tmis\TMSI Home Page\obj\Debug\TMSI_Home_Page.Form1.resources
+D:\tmis\TMSI Home Page\obj\Debug\TMSI_Home_Page.Form2.resources
+D:\tmis\TMSI Home Page\obj\Debug\TMSI_Home_Page.Resources.resources
+D:\tmis\TMSI Home Page\obj\Debug\TMSI Home Page.vbproj.GenerateResource.cache
+D:\tmis\TMSI Home Page\obj\Debug\TMSI Home Page.vbproj.CoreCompileInputs.cache
+D:\tmis\TMSI Home Page\obj\Debug\TMSI Home Page.exe
+D:\tmis\TMSI Home Page\obj\Debug\TMSI Home Page.xml
+D:\tmis\TMSI Home Page\obj\Debug\TMSI Home Page.pdb
+D:\tmis\TMSI Home Page\obj\Debug\TMSI_Home_Page.Form3.resources
+D:\tmis\TMSI Home Page\obj\Debug\TMSI_Home_Page.Form4.resources
+D:\tmis\TMSI Home Page\obj\Debug\TMSI_Home_Page.Form5.resources
